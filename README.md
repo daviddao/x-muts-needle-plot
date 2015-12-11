@@ -2,6 +2,9 @@
 
 <img src="http://i.imgur.com/I9HurIz.png"/>
 
+A BioJS next web component interface for <a href="http://biojs.io/d/muts-needle-plot">muts-needle-plot</a>
+
+<a href="http://daviddao.github.io/x-muts-needle-plot/components/x-muts-needle-plot/">Documentation & Demo</a>
 
 Example usage:
 
